@@ -1,0 +1,20 @@
+/* ESTILOS DOS ELEMENTOS DO HEADER */
+
+.redes-sociais {
+    background-color: greenyellow;
+    height: 50px;
+    border: 1px solid black;
+}
+.pesquisa {
+    background-color: red;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.menu-principal ul li{
+    display: inline;
+}
+
+.menu-rodape ul li {
+    display: inline;
+}
